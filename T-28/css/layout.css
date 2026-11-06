@@ -57,6 +57,10 @@
 
 
 }
+.conteneur-pied-de-page {
+    display: flex;
+    flex-direction: row;
+}
 
 
    
