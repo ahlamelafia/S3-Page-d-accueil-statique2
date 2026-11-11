@@ -1,0 +1,14 @@
+body{
+    background: beige;
+    padding: 30px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(148, 96, 201);
+}
+h1{
+    font-weight: 70px;
+}
+h2{
+    margin: 30px;
+}

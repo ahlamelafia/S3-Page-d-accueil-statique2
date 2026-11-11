@@ -1,0 +1,106 @@
+.portfolio-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    width: 50px ;
+    height: 45px;
+    margin:  10px 20px;
+
+}
+.accueil a{
+    color: rgb(78, 33, 119);
+    text-decoration: none;
+    margin: 40px;
+    padding-top: 70px;
+    font-size: 16px;
+    font-weight: 30px;
+
+}
+.prestastion{
+    display: flex;
+    gap: 70px;
+    margin: 0 20px;
+    justify-content: center;
+
+}
+.name h1{
+    margin: 50px;
+    color: rgb(103, 60, 144);
+    font-weight: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+.name span{
+    color:  rgb(135, 92, 175);
+    font-weight: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+.data-name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 40px;
+}
+.data-name p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin:  40px 0px;
+}
+.photo-persnal img{
+    border: 1px solid rgb(232, 232, 223);
+    border-radius: 100%;
+    background: rgb(232, 232, 223);
+    width: 300px;
+    height: 300px;
+    margin: 0px 90px;
+}
+
+   
+
+.projet1{
+    display: flex;
+    gap: 30px;
+    margin: 50px;
+
+     
+}
+
+
+.projets img{
+    width: 350px;
+    height: 200px;
+    border-radius: 15px;
+
+
+    border: 1px solid rebeccapurple;
+}
+.projets2 {
+    border-radius: 15px;
+    background: rgba(171, 121, 221, 0.712);
+    text-align: center;
+
+
+    border: 1px solid rebeccapurple;
+}
+
+.projets p{
+    font-size: 15px;
+    color: rebeccapurple;
+  
+}
+.contact-ahlam img{
+    width: 50px;
+    height: 50px;
+    
+}
+.con-footer{
+    display: flex;
+    gap: 40px;
+    margin: 50px;
+}
+.find-foot{
+    border-top: 1px solid rgb(78, 33, 119) ;
+    text-align: center;
+}
+
+
